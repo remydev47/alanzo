@@ -1,0 +1,49 @@
+export const navLinks =[
+    {
+        id:"menu",
+        title:"MENU",
+    },
+    {
+        id:"services",
+        title:"SERVICES",
+    },
+    {
+        id:"privatechef",
+        title:"PRIVATE CHEF",
+    },
+    {
+        id:"catering",
+        title:"CATERING",
+    },
+    {
+        id:"aboutus",
+        title:"ABOUT",
+    },
+    {
+        id:"contacts",
+        title:"CONTACTS",
+    },
+]
+
+export const conLinks =[
+    {
+        id:"discover",
+        title:'DISCOVER',
+    },
+    {
+        id:"plan",
+        title:'PLAN',
+    },
+    {
+        id:"design",
+        title:'DESIGN',
+    },
+    {
+        id:"organise",
+        title:'ORGANISE',
+    },
+    {
+        id:"grow",
+        title:'GROW',
+    },
+]
